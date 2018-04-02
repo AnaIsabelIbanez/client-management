@@ -143,8 +143,3 @@ Travis CI is a hosted, distributed continuous integration service used to build 
 
 Check at
 https://travis-ci.org/xxx/client-management
-
-## Coveralls
-Ensure that all your new code is fully covered, and see coverage trends emerge. Works with any CI service
-
-https://coveralls.io/github/xxx/client-management
